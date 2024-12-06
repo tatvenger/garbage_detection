@@ -1,1 +1,1 @@
-# garbage_detection
+# Сортировка мусора
